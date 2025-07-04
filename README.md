@@ -1,79 +1,100 @@
-<h1 align="center">Hey there! I'm Ken Ira Lacson 👋</h1>
+<h1 align="center">Hi, I'm Ken Ira Lacson 👋</h1>
 <p align="center">
-  🎓 Aspiring Machine Learning Engineer | 📍 Manila, PH <br>
-  💻 CS Student @ National University Manila | 🤖 Passionate about Reinforcement Learning & NLP Engineering
+  🎓 Computer Science Student @ National University Manila <br>
+  🤖 Aspiring Machine Learning Engineer | 📍 Manila, Philippines
+</p>
+
+<p align="center">
+  <em>Building intelligent systems through Reinforcement Learning, NLP, and scalable MLOps.</em>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi! I'm Ken — a Computer Science student with a mission to build intelligent, responsible, and scalable ML systems. My journey started with data science in 2024, but I quickly found my drive in building **end-to-end machine learning solutions** that go beyond notebooks and into real-world systems.
+I'm **Ken**, a curious and driven Computer Science student passionate about building **real-world AI systems**. I specialize in developing **end-to-end machine learning pipelines** and exploring how agents and language models can drive smarter automation.
 
-My core interests lie in **Reinforcement Learning**, **Natural Language Processing**, and **MLOps** — especially how agents and language models can solve high-impact problems. I’m currently focused on transforming ideas into **production-ready ML pipelines** and studying how large AI systems can be made more effective, ethical, and robust.
+Currently, I’m focused on:
+
+- Designing **agentic AI** for decision-making
+- Developing production-ready ML solutions
+- Exploring how large models and reinforcement learning shape the future of AI
+
+> 💡 I believe that impactful AI should be ethical, scalable, and deeply human-aware.
 
 ---
 
-## 🧠 What I’m Learning
+## 🧠 Currently Exploring
 
-- 🧠 **Reinforcement Learning** (agent behavior, policy optimization, multi-agent systems)
-- 🔡 **Natural Language Processing** (LLMs, prompt engineering, transformers)
-- 🧱 **MLOps** (CI/CD for ML, experiment tracking, model monitoring)
-- 🔧 **ML Engineering** (modular pipelines, scalable architectures)
-- 💸 **Fintech ML** (credit scoring, multi-task modeling)
-- 🤖 **Agentic AI** (reasoning agents, Tree of Thoughts, LangChain)
+- 🔁 **Reinforcement Learning** — policy optimization, multi-agent systems, applications
+- 🧠 **Natural Language Processing** — transformers, LLMs, prompt engineering
+- 🛠️ **MLOps** — CI/CD, model monitoring, reproducibility
+- 🧱 **Scalable ML Architectures** — modular pipelines, production APIs
+- 💸 **Fintech AI** — loan modeling, credit risk, multi-task learning
+- 🤖 **Agentic AI** — LangChain, Reflexion, Tree of Thoughts
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,pandas,numpy,matplotlib,opencv,fastapi,docker,git,github,vscode,jupyter,linux" alt="Ken's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit-learn,pandas,numpy,matplotlib,fastapi,docker,git,github,jupyter,linux,vscode,opencv" alt="Ken's Tech Stack" />
 </p>
 
-> 🧪 *Currently exploring:* MLflow · LangChain · Reflexion · HuggingFace · Streamlit · Ray RLlib
+> 🧪 *Learning:* MLflow · Streamlit · HuggingFace · LangChain · Ray RLlib
 
 ---
 
-## 🛠️ Projects That Represent Me
+## 💼 Featured Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🖐 Hand Recognizer](https://github.com/kenilacson15/hand_recognizer.git) | Real-time hand gesture detection system. | Python, OpenCV, MediaPipe |
-| [🎨 DeepDraw Digit Recognizer](https://github.com/kenilacson15/DeepDraw-DigitRecognizer.git) | Interactive digit recognition using classic ML. | Tkinter, Scikit-learn |
-| [🛠️ Industrial Anomaly Detection](https://github.com/kenilacson15/anomaly-detection-project.git) | Detects anomalies in equipment sensor data. | Pandas, Scikit-learn |
-| [💬 Tweet Classifier](https://github.com/kenilacson15/Inbound-vs-Outbound-Tweet-Classifier.git) | Classifies tweets as inbound vs outbound. | Transformers, NLP |
-| [💡 Multi-Task Loan Model](https://github.com/kenilacson15/multi-task-default-interest-model.git) | Predicts loan defaults + interest rates. | TensorFlow, XGBoost |
-| [⚖️ Jurybee: Legal AI Prototype](https://github.com/kenilacson15/jurybee-proto.git) | Multi-agent legal reasoning system using ToT + LegalBERT. | Reflexion, LangChain, Blockchain |
+| 🛠️ Project | 🌟 Highlights | ⚙️ Stack |
+|-----------|----------------|----------|
+| [**Hand Recognizer**](https://github.com/kenilacson15/hand_recognizer.git) | Real-time hand gesture recognition using computer vision. | Python · OpenCV · MediaPipe |
+| [**DeepDraw Digit Recognizer**](https://github.com/kenilacson15/DeepDraw-DigitRecognizer.git) | Interactive ML app for digit recognition. | Tkinter · Scikit-learn |
+| [**Industrial Anomaly Detection**](https://github.com/kenilacson15/anomaly-detection-project.git) | Time-series anomaly detection in sensor data. | Pandas · Sci-kit Learn |
+| [**Tweet Classifier**](https://github.com/kenilacson15/Inbound-vs-Outbound-Tweet-Classifier.git) | LLM-based tweet intent classification. | Transformers · NLP |
+| [**Multi-Task Loan Model**](https://github.com/kenilacson15/multi-task-default-interest-model.git) | Predicts loan default risk and interest rates. | TensorFlow · XGBoost |
+| [**Jurybee: Legal AI Prototype**](https://github.com/kenilacson15/jurybee-proto.git) | Legal reasoning using LLM agents. | Reflexion · LangChain · LegalBERT |
 
-> 🔍 *I’m currently working on reinforcement learning agents with real-world applications and full-stack ML deployment pipelines.*
-
----
-
-## 📌 2025 Goals
-
-- ✅ Design and deploy **end-to-end ML pipelines** with modern tooling
-- ✅ Deepen skills in **MLOps** (MLflow, Docker, CI/CD workflows)
-- ✅ Build **NLP systems** for real-world decision-making
-- ✅ Master **Reinforcement Learning frameworks** (Ray RLlib, Stable Baselines3)
-- ✅ Win or contribute to **AI hackathons** and open-source agentic AI projects
+> 🎯 *Ongoing:* RL-based agents, full-stack ML APIs, MLOps experimentation
 
 ---
 
-## 💬 Let’s Connect!
+## 🎯 2025 Goals
 
-I love meeting fellow ML learners, engineers, and researchers. Feel free to connect if you’re into RL, NLP, or just building cool things with AI!
+- ✅ Build & deploy **robust ML pipelines** using MLOps tools  
+- ✅ Master **Reinforcement Learning frameworks** (RLlib, SB3)  
+- ✅ Ship **NLP solutions** for real-world scenarios  
+- ✅ Collaborate on **open-source agentic AI** projects  
+- ✅ Join or win an **AI hackathon** or research sprint
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ken%20Ira%20Lacson-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ken-ira-lacson-852026343/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-KeniraLacson-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/keniralacson)
-[![Instagram](https://img.shields.io/badge/Instagram-keniii_lacson-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/keniii_lacson/)
-[![Facebook](https://img.shields.io/badge/Facebook-Ken%20Ira%20Lacson-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ken.ira.lacson.talingting/)
+---
+
+## 🤝 Let’s Connect
+
+I'm always excited to connect with other builders, learners, and AI enthusiasts!  
+Feel free to reach out for collaborations, projects, or just to chat ML. 😊
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ken-ira-lacson-852026343/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ken%20Ira%20Lacson-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kenlacson15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kenlacson15@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/kenilacson15">
+    <img src="https://img.shields.io/badge/GitHub-kenilacson15-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="https://www.kaggle.com/keniralacson">
+    <img src="https://img.shields.io/badge/Kaggle-KeniraLacson-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+</p>
 
 ---
 
 ## 🔖 Final Note
 
-> 💡 *I’m not an expert yet — but I’m obsessed with learning and building AI that works in the real world.*  
-> 📈 *Follow my journey from CS student to Machine Learning Engineer focused on Reinforcement Learning and NLP.*
+> 🌱 *I may still be a student, but I’m already obsessed with building real-world ML systems.*  
+> 🚀 *Let’s build the future of intelligent, responsible AI — together.*
 
 ---
